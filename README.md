@@ -1,6 +1,6 @@
 # ポケモン図鑑アプリ
 
-####【参考】
+#### 【参考】
 [【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座](https://www.udemy.com/course/react-3project-app-udemy/learn/lecture/32797392?start=0#overview)
 > セクション3：【アプリ①】ポケモン図鑑アプリケーションを作成してみよう
 
