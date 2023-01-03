@@ -3,3 +3,7 @@ export const getAllPokemon = (url) => {
         fetch(url).then((res) => res.json()).then((data) => resolve(data));
     });
 };
+
+export const getPokemon = () => {
+
+};
